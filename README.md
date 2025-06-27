@@ -1,6 +1,14 @@
 # yanu
 Yet Another Nomic-like Undertaking
 
+## Confused?
+
+This is an experiment/game inspired by [Nomic](https://en.wikipedia.org/wiki/Nomic).
+
+### Still Confused?
+
+Head over to the [discussion section](https://github.com/nejucomo/yanu/discussions)!
+
 ## Roster
 
 - @nejucomo
